@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋 I'm Nikki Goel. 
 
-<!--
-**nicks101/nicks101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♀️ About Me
+- 👩‍💻 I'm a Software Engineer.
+- 💙 I develop mobile apps with [Flutter](https://flutter.dev/). 
+- 👩‍🎓 I graduated with a B.Tech in Computer Science and Engineering.
+- 👩‍🏫 Currently, I'm learning Vuejs and computer networks.
+- 📝 I write blogs and I contribute to Open Source Projects in my spare time and learn new technologies.
+- 📚 I like to read novels and belong to the Hufflepuff house.
 
-Here are some ideas to get you started:
+## 🛠 My Tech Stack
+- Flutter | Dart
+- Firebase
+- HTML | CSS | JavaScript | Vuejs
+- WordPress
+- PostgreSQL
+- Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ Blogs
+
+I write blogs about my experiences as a Software Engineer and the tech I use daily.
+
+Check out my blogs [here](https://nikkigoel.hashnode.dev/) on hashnode.
+
+## 📫 How to reach me:
+
+[Twitter](https://twitter.com/NikkiGoel8)  
+[LinkedIn](https://www.linkedin.com/in/nikki-goel-449563159/)  
+[Email](nikkigoel20@gmail.com)
