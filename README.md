@@ -26,4 +26,4 @@ Check out my blogs [here](https://nikkigoel.hashnode.dev/) on hashnode.
 
 [Twitter](https://twitter.com/NikkiGoel8)  
 [LinkedIn](https://www.linkedin.com/in/nikki-goel-449563159/)  
-[Email](nikkigoel20@gmail.com)
+[Email](mailto:nikkigoel20@gmail.com)
