@@ -9,6 +9,7 @@
 
 ## 🛠 My Tech Stack
 - Flutter | Dart
+- Android
 - Firebase
 - HTML | CSS | JavaScript | Vuejs
 - WordPress
