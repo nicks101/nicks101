@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nikki Goel. 
+## Hi there 👋 I'm Nikki Goel
 
 ## 🙋‍♀️ About Me
 - 👩‍💻 I'm a Software Engineer.
@@ -9,23 +9,24 @@
 
 ## 🛠 My Tech Stack
 - Flutter | Dart
-- Android
+- Django
 - Firebase
+- Android
 - HTML | CSS | JavaScript | Vuejs
 - WordPress
 - PostgreSQL
-- Django
 
 ## ✍️ Blogs
 
 I write blogs about my experiences as a Software Engineer and the tech I use daily.
 
-Check out my blogs [here](https://nikkigoel.hashnode.dev/) on hashnode.
+Check out my blogs [here](https://blog.nikkigoel.com).
 
 ## 📫 How to reach me:
 
-Want to discuss about a project or just drop a "hi", you can contact me via following-   
+Want to collaborate with me? Drop a message on Twitter or send an email.
 
 [Twitter](https://twitter.com/NikkiGoel8)  
+[Email](mailto:nikkigoel20@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/nikki-goel-449563159/)  
-[Email](mailto:nikkigoel20@gmail.com)
+[dev.to](https://dev.to/nicks101)  
